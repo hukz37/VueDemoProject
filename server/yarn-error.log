@@ -1,0 +1,27 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/bin/yarn add express
+
+PATH: 
+  /usr/local/bin:/Users/didi/.yarn/bin:/Users/didi/.config/yarn/global/node_modules/.bin:/Users/didi/.rvm/gems/ruby-2.7.0/bin:/Users/didi/.rvm/gems/ruby-2.7.0@global/bin:/Users/didi/.rvm/rubies/ruby-2.7.0/bin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/munki:/Library/Apple/usr/bin:/Users/didi/.rvm/bin:/Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/bin:/Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/jre/bin:/Users/didi/Library/Android/sdk/platform-tools/:/Users/didi/Library/Android/sdk/tools
+
+Yarn version: 
+  1.22.11
+
+Node version: 
+  16.13.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND npm.intra.xiaojukeji.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
